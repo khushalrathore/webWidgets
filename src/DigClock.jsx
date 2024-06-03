@@ -49,7 +49,7 @@ function DigClock() {
       display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
-      overflowY : 'clip'
+      overflowY : 'hidden'
     }
   };
 
